@@ -1,6 +1,7 @@
 mylist=[1,2,3,4,5,6,7,8,9,10]
 mylist1=[]
 mylist2=[]
+//ind变量表示数组长度
 ind=len(mylist)
 i=0
 while i<ind:
