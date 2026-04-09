@@ -1,7 +1,9 @@
 import random
 num=random.randint(1,10)
 print(num)
+//获取用户输入的数字
 gussnum=int(input("请输入一个1-10之间的整数"))
+
 
 if gussnum==num:
     print("恭喜你猜对了")
